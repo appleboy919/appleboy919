@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- Studying Computer Science at University of Wisconsin-Madison
+- My interest is in Machine Learning and Back-end Development
+- I'm currently working on Bitcoin Auto Trading Application
