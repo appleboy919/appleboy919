@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I'm David Oh 👋
 
 <!--
 **appleboy919/appleboy919** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,6 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- Studying Computer Science at University of Wisconsin-Madison
-- My interest is in Machine Learning and Back-end Development
-- I'm currently working on Bitcoin Auto Trading Application
+## I'm a Computer Science undergraduate at UW-Madison
+
+- 🌱 I'm currently studying basic of backend development
+- 💡 I'm interested in Backend Development and AI/ML
+- ⌛️ My recent project is Bitcoin Autotrading HTS
+- 🎯 Goals for 2021: Master basic of Backend DEV(Internet ~ Database)
+- ⚡️ Fun Fact: I love to play musical instruments and play around with DAWs (FL Studio, Logic Pro)
