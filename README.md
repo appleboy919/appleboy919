@@ -20,5 +20,4 @@ Here are some ideas to get you started:
 - 🌱 I'm currently studying basic of backend development
 - 💡 I'm interested in Backend Development and AI/ML
 - ⌛️ My recent project is Bitcoin Autotrading HTS
-- 🎯 Goals for 2021: Master basic of Backend DEV(Internet ~ Database)
 - ⚡️ Fun Fact: I love to play musical instruments and play around with DAWs (FL Studio, Logic Pro)
